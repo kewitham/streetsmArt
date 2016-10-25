@@ -1,0 +1,29 @@
+{
+  "name": "streetsmart",
+  "version": "1.0.0",
+  "description": "Find street art near you.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kewitham/streetsmArt.git"
+  },
+  "keywords": [
+    "graffiti",
+    "street",
+    "art",
+    "photography",
+    "siteseeing",
+    "los",
+    "angeles"
+  ],
+  "author": "kewitham@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kewitham/streetsmArt/issues"
+  },
+  "homepage": "https://github.com/kewitham/streetsmArt#readme"
+}
